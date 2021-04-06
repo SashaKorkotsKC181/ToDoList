@@ -26,7 +26,7 @@ namespace ToDoList
                 Done = false
             };
 
-            /* string str = Console.ReadLine();
+            string str = Console.ReadLine();
             switch (str)
             {
                 case "Read":
@@ -39,11 +39,11 @@ namespace ToDoList
                     repository.Update(newMyTask);
                     break;
                 case "Delete":
-                    repository.Delete()
+                    repository.Delete(7);
+                    break;
                 default:
                     break;
-            } */
-            repository.Update(newMyTask);
+            }            
         }
     }
 }

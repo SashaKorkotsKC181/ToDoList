@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/intern/Documents/ToDoList/ToDoList.csproj": {}
+    "D:\\Internships\\ToDoList\\ToDoList.csproj": {}
   },
   "projects": {
-    "/home/intern/Documents/ToDoList/ToDoList.csproj": {
+    "D:\\Internships\\ToDoList\\ToDoList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/intern/Documents/ToDoList/ToDoList.csproj",
+        "projectUniqueName": "D:\\Internships\\ToDoList\\ToDoList.csproj",
         "projectName": "ToDoList",
-        "projectPath": "/home/intern/Documents/ToDoList/ToDoList.csproj",
-        "packagesPath": "/home/intern/.nuget/packages/",
-        "outputPath": "/home/intern/Documents/ToDoList/obj/",
+        "projectPath": "D:\\Internships\\ToDoList\\ToDoList.csproj",
+        "packagesPath": "C:\\Users\\Саша Коркоць\\.nuget\\packages\\",
+        "outputPath": "D:\\Internships\\ToDoList\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/intern/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Саша Коркоць\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

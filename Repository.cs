@@ -42,6 +42,9 @@ namespace ToDoList
             }
             return listOfTasks;
         }
+
+        
+
         public MyTask ReadById(int id)
         {
             MyTask newMyTask = new MyTask();
@@ -92,6 +95,11 @@ namespace ToDoList
 
 
         }
-
+        public void Delete(int id)
+        {
+            var insertCmd = new NpgsqlCommand("delete from items where id=@id", conn);
+            insertCmd.Parameters.AddWithValue("id", id);
+            insertCmd.ExecuteNonQuery();
+        }
     }
 }

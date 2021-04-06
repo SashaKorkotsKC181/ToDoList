@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "eQ/9gwwsYDH7angMordDDOdNo2VtbxQxvtC9iWBTzQl95W3NZwnSfYgo/Ed5DNZbmiST/+Kqa2FSap/McZr7UQ==",
+  "dgSpecHash": "x3hly3kUYN+aSW8MxCdfpSeB/XZCHqw3S1KkIfrD9oFOSc9S4F/Yt5c7gSG4WrCx/7SU31pWFuyqbn39n6qtnQ==",
   "success": true,
-  "projectFilePath": "/home/intern/Documents/ToDoList/ToDoList.csproj",
+  "projectFilePath": "D:\\Internships\\ToDoList\\ToDoList.csproj",
   "expectedPackageFiles": [
-    "/home/intern/.nuget/packages/npgsql/5.0.4/npgsql.5.0.4.nupkg.sha512",
-    "/home/intern/.nuget/packages/system.runtime.compilerservices.unsafe/4.6.0/system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
+    "C:\\Users\\Саша Коркоць\\.nuget\\packages\\npgsql\\5.0.4\\npgsql.5.0.4.nupkg.sha512",
+    "C:\\Users\\Саша Коркоць\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512"
   ],
   "logs": []
 }

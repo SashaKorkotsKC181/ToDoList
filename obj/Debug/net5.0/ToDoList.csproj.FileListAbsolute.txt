@@ -16,3 +16,11 @@
 /home/intern/Documents/ToDoList/obj/Debug/net5.0/ref/ToDoList.dll
 /home/intern/Documents/ToDoList/obj/Debug/net5.0/ToDoList.pdb
 /home/intern/Documents/ToDoList/obj/Debug/net5.0/ToDoList.genruntimeconfig.cache
+D:\Internships\ToDoList\obj\Debug\net5.0\ToDoList.csprojAssemblyReference.cache
+D:\Internships\ToDoList\obj\Debug\net5.0\ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Internships\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfoInputs.cache
+D:\Internships\ToDoList\obj\Debug\net5.0\ToDoList.AssemblyInfo.cs
+D:\Internships\ToDoList\obj\Debug\net5.0\ToDoList.csproj.CoreCompileInputs.cache
+D:\Internships\ToDoList\obj\Debug\net5.0\ToDoList.dll
+D:\Internships\ToDoList\obj\Debug\net5.0\ref\ToDoList.dll
+D:\Internships\ToDoList\obj\Debug\net5.0\ToDoList.pdb
