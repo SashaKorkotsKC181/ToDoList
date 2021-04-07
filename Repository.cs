@@ -18,7 +18,7 @@ namespace ToDoList
         public List<MyTask> Read()
         {
             List<MyTask> listOfTasks = new List<MyTask>();
-            using (var cmd = new NpgsqlCommand("SELECT id, title, description, do_date, done FROM items", conn))
+            using (var cmd = new NpgsqlCommand("SELECT id, title, description, do_date, done FROM items order by id", conn))
             {
                 using (var reader = cmd.ExecuteReader())
                 {

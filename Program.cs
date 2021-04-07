@@ -22,24 +22,24 @@ namespace ToDoList
                 Id = 4,
                 Title = "make todolist",
                 Description = null,
-                DoDate = null,
+                DoDate = new DateTime(2021,4,10),
                 Done = false
             };
 
             string str = Console.ReadLine();
             switch (str)
             {
-                case "Read":
+                case "1":
                     OutPut(repository.Read());
                     break;
-                case "Create":
+                case "2":
                     repository.Create(newMyTask);
                     break;
-                case "Update":
+                case "3":
                     repository.Update(newMyTask);
                     break;
-                case "Delete":
-                    repository.Delete(7);
+                case "4":
+                    repository.Delete(6);
                     break;
                 default:
                     break;

@@ -78,19 +78,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Саша Коркоць\\.nuget\\packages\\": {}
+    "/home/intern/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Internships\\ToDoList\\ToDoList.csproj",
+      "projectUniqueName": "/home/intern/Documents/ToDoList/ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "D:\\Internships\\ToDoList\\ToDoList.csproj",
-      "packagesPath": "C:\\Users\\Саша Коркоць\\.nuget\\packages\\",
-      "outputPath": "D:\\Internships\\ToDoList\\obj\\",
+      "projectPath": "/home/intern/Documents/ToDoList/ToDoList.csproj",
+      "packagesPath": "/home/intern/.nuget/packages/",
+      "outputPath": "/home/intern/Documents/ToDoList/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Саша Коркоць\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/intern/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -134,7 +134,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
       }
     }
   }
